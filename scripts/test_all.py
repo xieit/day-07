@@ -5,7 +5,7 @@ class Test_allure:
         assert 1
 
     def test_al01(self):
-        assert 1
+        assert 0
 
     def test_al02(self):
         assert 1
