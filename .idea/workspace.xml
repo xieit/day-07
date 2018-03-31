@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522482299445</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第二次修改后提交011">
+      <created>1522484612077</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1522484612077</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -207,7 +214,8 @@
     <MESSAGE value="第二次提交" />
     <MESSAGE value="第二次修改后提交" />
     <MESSAGE value="第二次修改后提交0" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次修改后提交0" />
+    <MESSAGE value="第二次修改后提交011" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次修改后提交011" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
